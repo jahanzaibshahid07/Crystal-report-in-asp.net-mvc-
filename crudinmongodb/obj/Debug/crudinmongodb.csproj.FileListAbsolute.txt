@@ -1,0 +1,27 @@
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\crudinmongodb.exe.config
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\crudinmongodb.exe
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\crudinmongodb.pdb
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\DnsClient.dll
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\MongoDB.Bson.dll
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\MongoDB.Driver.dll
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\System.Buffers.dll
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\DnsClient.xml
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\MongoDB.Bson.xml
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\MongoDB.Driver.xml
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\bin\Debug\System.Buffers.xml
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\obj\Debug\crudinmongodb.crudstudent.resources
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\obj\Debug\crudinmongodb.Formforcrystalreport.resources
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\obj\Debug\crudinmongodb.Formrdlcreport.resources
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\obj\Debug\crudinmongodb.Properties.Resources.resources
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\obj\Debug\crudinmongodb.csproj.GenerateResource.Cache
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\obj\Debug\RdlCompile.cache
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\obj\Debug\RdlCompile.compiled
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\obj\Debug\crudinmongodb.exe
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\obj\Debug\crudinmongodb.pdb
+C:\Users\zeej laptop\documents\visual studio 2013\Projects\crudinmongodb\crudinmongodb\obj\Debug\crudinmongodb.csprojResolveAssemblyReference.cache
+C:\Users\zeej laptop\Desktop\jahanzaib document\crudinmongodb\crudinmongodb\crudinmongodb\bin\Debug\crudinmongodb.exe.config
+C:\Users\zeej laptop\Desktop\jahanzaib document\crudinmongodb\crudinmongodb\crudinmongodb\obj\Debug\crudinmongodb.exe
+C:\Users\zeej laptop\Desktop\jahanzaib document\crudinmongodb\crudinmongodb\crudinmongodb\obj\Debug\crudinmongodb.pdb
